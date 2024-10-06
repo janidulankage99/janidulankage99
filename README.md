@@ -4,10 +4,10 @@
 Hey there! I’m JANIDU LANKAGE, a passionate software developer with a flair for transforming complex problems into elegant solutions. My journey in the tech world is driven by an insatiable curiosity, boundless creativity, and an unwavering commitment to excellence. Together, let’s turn ideas into reality and build something truly extraordinary!
 
 ## 🛠️ Professional Expertise
-Backend Development
+### Backend Development
 I excel in backend development, wielding the power of C#, .NET Core, and ASP.NET Core to create robust APIs and architect intricate systems. My code isn’t just functional; it’s a symphony of efficiency and clarity, bringing server-side logic to life.
 
-Frontend Development
+### Frontend Development
 On the frontend, I blend creativity with precision, crafting captivating user interfaces using HTML5, CSS3, JavaScript, jQuery, AJAX, PHP, React.js, Next.js, and TypeScript. My mission is to design responsive, interactive experiences that users can’t get enough of.
 
 
